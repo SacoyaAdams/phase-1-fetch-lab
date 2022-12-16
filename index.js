@@ -1,6 +1,6 @@
 function fetchBooks() {
   // To pass the tests, don't forget to return your fetch!
-  
+  console.log("hello")
 }
 
 function renderBooks(books) {
